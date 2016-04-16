@@ -8,7 +8,6 @@ anisole 100-66-3.top
 biphenyl biphenyl.top
 triethyl-phosphate 78-40-0.top
 nitrobenzene 98-95-3.top
-styrene 100-42-5.top
 124-trimethylbenzene 95-63-6.top
 benzaldehyde 100-52-7.top
 12-dimethoxybenzene 91-16-7.top
